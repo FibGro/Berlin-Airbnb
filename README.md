@@ -9,7 +9,7 @@ The project includes the dataset about accommodation in Berlin, which registered
 
 # End Result 
 
-The link of result can be seen : 
+The link of result can be seen : https://fibgro.shinyapps.io/BerlinAirbnb-dash/
 
 # Dataset Information 
 
