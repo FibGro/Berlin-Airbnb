@@ -1,6 +1,6 @@
 # Berlin Airbnb
 
-This project is part of Learn by Capstone Project assignment. 
+This project is part of Capstone Project assignment. 
 The project will deliver and implement some knowledge related to the usage of Rmarkdown, exploratory data analysis by using R, data visualization and publishing into the Shiny dashboard. 
 
 # Objective of the project 
@@ -19,7 +19,7 @@ The dataset is collected from Kaggle website : https://www.kaggle.com/lennarthau
 
 - Rstudio
 - Shinydashboard
-- Other liberaries
+- Other libraries
 
 # File Attachment
 
